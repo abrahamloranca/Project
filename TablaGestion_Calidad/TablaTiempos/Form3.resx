@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>10 propuestas para mejorar la productividad y el rendimiento
+
+1. Cambiar la mentalidad laboral. Un trabajador no es mejor por estar más horas en su puesto. Hay que desterrar la cultura del “presentimos” tanto para los trabajadores como para una dirección que parece valorar este factor en perjuicio del cumplimiento de objetivos. Cada uno debe tener unos objetivos que cumplir y por ellos ha de ser evaluado.
+
+2. El mejor trabajador es el que disfruta de su trabajo. La motivación y la implicación de los empleados en los objetivos de la organización son pilares fundamentales para un funcionamiento positivo de la misma. Aprovechar el talento y retenerlo aparece como algo imposible si un trabajador no se siente valorado y no goza de unas condiciones de trabajo que le permitan disfrutar de otros aspectos de su vida.
+
+ 3. Fomentar la creatividad y la motivación. Repetir mecánicamente una tarea sin aportar inspiración y creatividad no es la mejor manera de contribuir a la eficiencia empresarial. Del mismo modo, un trabajador estresado que solo puede estar con sus hijos un mínimo espacio de tiempo al terminar la jornada, difícilmente podrá estar motivado. Está demostrado que el rendimiento es superior cuando el empleado puede disfrutar de su vida privada. Las medidas de conciliación y flexibilidad son, pues, además de un derecho, un factor de mejora de la productividad.
+
+4. Racionalización horaria y productividad. Cuando se habla de que se requiere mayor productividad para ser más competitivos, hay por desgracia quien piensa que basta con bajar salarios para lograr esa mejora. Otros, en cambio, han comprobado que la implementación de medidas de racionalización horaria y conciliación ha supuesto para sus empresas un importante plus de productividad e implicación de los trabajadores.
+
+5. Modificar conductas en el trabajo. Que determinadas formas de trabajar se arrastren desde mucho tiempo atrás, no significa que sean las correctas ni las más apropiadas para los tiempos actuales.  El “ordeno y mando” ha de quedar como una reliquia del pasado. Es responsabilidad de los directivos adoptar las decisiones necesarias para actualizar y modernizar las condiciones en que la empresa desarrolla su actividad: fomentar el trabajo en equipo, considerar al trabajador como aun “cliente interno” que necesita saber qué y por qué hace las cosas, etc. A mayor unión de empresa y trabajadores, mejores perspectivas de negocio.
+
+
+6. El valor del tiempo. Un trabajador no puede ir “picoteando” en sus tareas, debe tener una agenda e ir paso a paso, abordando y finalizando cada una de ellas. Se dice que “el tiempo es oro” y en la empresa esa afirmación adquiere su máxima dimensión. Si directivos y trabajadores no son conscientes del valor del tiempo y de la necesidad de gestionarlo correctamente, será difícil alcanzar el éxito. Es necesaria una corresponsabilidad entre empresa y trabajadores.
+
+7. ¿Son necesarias dos horas para comer? Es una más de nuestras singularidades. Si nos comparamos con otros países como  Europa y con Estados Unidos, ellos dedican 30 - 45 minutos para comer. De esta manera la carga de trabajo se mantiene estable a lo largo de la jornada. Además suelen entrar antes a trabajar con lo que también pueden salir antes por la tarde. No tiene mucho sentido desperdiciar tanto tiempo de la jornada laboral en la comida, si ello supone salir de trabajar a las 19 - 20 horas.
+
+8. Reuniones de trabajo sí, pero las justas. El orden del día laboral supone celebrar reuniones, pero sería recomendable que fueran más cortas y tuvieran una duración limitada. Convocar una reunión un poco antes de terminar la jornada, cuando los empleados están ya cansados es absurdo. Hay que hacerlas a primera hora de la mañana o de la tarde y centrarse en los temas a tratar sin desviarse de los mismos. Es importante, convocar tan sólo las que realmente sean imprescindibles, con un orden del día que ayuda a organizar tiempos y tareas.
+
+9. Evitar las distracciones. Todas las ventajas que nos aportan las nuevas tecnologías, pierden parte de su sentido cuando nos distraen de lo fundamental, tanto en la vida laboral como en la privada. Es difícil concentrarse en el trabajo consultando el correo constantemente o escuchando la señal del WhatsApp a cada instante. Hay momentos en que se impone desconectar.
+
+10. Todos somos responsables. Quejarse sin actuar no sirve de nada. Los trabajadores han de saber reivindicar unas condiciones de trabajo más humanas y racionales pero también ellos deben desterrar actitudes perjudiciales por muy asentadas que estén. Por su parte, los empresarios han de hacer un esfuerzo para lograr modernizar nuestro sistema laboral, pero eso solo será posible si se adoptan las medidas necesarias, entre ellas y de forma decisiva, la racionalización y humanización de nuestros horarios.
+</value>
+  </data>
+</root>

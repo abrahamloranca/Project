@@ -1,0 +1,9 @@
+C:\Users\cabre\Documents\GitHub\repositorio-abraham\Esferas\Esferas\bin\Release\Esferas.exe
+C:\Users\cabre\Documents\GitHub\repositorio-abraham\Esferas\Esferas\bin\Release\Esferas.pdb
+C:\Users\cabre\Documents\GitHub\repositorio-abraham\Esferas\Esferas\obj\x86\Release\Esferas.Form1.resources
+C:\Users\cabre\Documents\GitHub\repositorio-abraham\Esferas\Esferas\obj\x86\Release\Esferas.Properties.Resources.resources
+C:\Users\cabre\Documents\GitHub\repositorio-abraham\Esferas\Esferas\obj\x86\Release\Esferas.csproj.GenerateResource.Cache
+C:\Users\cabre\Documents\GitHub\repositorio-abraham\Esferas\Esferas\obj\x86\Release\Esferas.exe
+C:\Users\cabre\Documents\GitHub\repositorio-abraham\Esferas\Esferas\obj\x86\Release\Esferas.pdb
+C:\Users\cabre\Documents\GitHub\repositorio-abraham\Esferas\Esferas\obj\x86\Release\Esferas.Inicio.resources
+C:\Users\cabre\Documents\GitHub\repositorio-abraham\Esferas\Esferas\obj\x86\Release\Esferas.csprojResolveAssemblyReference.cache

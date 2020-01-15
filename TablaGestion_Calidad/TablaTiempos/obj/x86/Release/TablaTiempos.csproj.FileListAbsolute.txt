@@ -1,0 +1,12 @@
+C:\Users\cabre\Documents\GitHub\repositorio-abraham\TablaTiempos\TablaTiempos\bin\Release\TablaTiempos.exe
+C:\Users\cabre\Documents\GitHub\repositorio-abraham\TablaTiempos\TablaTiempos\bin\Release\TablaTiempos.pdb
+C:\Users\cabre\Documents\GitHub\repositorio-abraham\TablaTiempos\TablaTiempos\obj\x86\Release\TablaTiempos.control.resources
+C:\Users\cabre\Documents\GitHub\repositorio-abraham\TablaTiempos\TablaTiempos\obj\x86\Release\TablaTiempos.Form1.resources
+C:\Users\cabre\Documents\GitHub\repositorio-abraham\TablaTiempos\TablaTiempos\obj\x86\Release\TablaTiempos.Properties.Resources.resources
+C:\Users\cabre\Documents\GitHub\repositorio-abraham\TablaTiempos\TablaTiempos\obj\x86\Release\TablaTiempos.csproj.GenerateResource.Cache
+C:\Users\cabre\Documents\GitHub\repositorio-abraham\TablaTiempos\TablaTiempos\obj\x86\Release\TablaTiempos.exe
+C:\Users\cabre\Documents\GitHub\repositorio-abraham\TablaTiempos\TablaTiempos\obj\x86\Release\TablaTiempos.pdb
+C:\Users\cabre\Documents\GitHub\repositorio-abraham\TablaTiempos\TablaTiempos\obj\x86\Release\TablaTiempos.control1.resources
+C:\Users\cabre\Documents\GitHub\repositorio-abraham\TablaTiempos\TablaTiempos\obj\x86\Release\TablaTiempos.csprojResolveAssemblyReference.cache
+C:\Users\cabre\Documents\GitHub\repositorio-abraham\TablaTiempos\TablaTiempos\obj\x86\Release\TablaTiempos.Form2.resources
+C:\Users\cabre\Documents\GitHub\repositorio-abraham\TablaTiempos\TablaTiempos\obj\x86\Release\TablaTiempos.Recomendaciones.resources

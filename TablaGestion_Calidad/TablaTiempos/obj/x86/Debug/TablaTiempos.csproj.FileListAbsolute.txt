@@ -1,0 +1,19 @@
+C:\Users\cabre\AppData\Local\Temporary Projects\TablaTiempos\bin\Debug\TablaTiempos.exe
+C:\Users\cabre\AppData\Local\Temporary Projects\TablaTiempos\bin\Debug\TablaTiempos.pdb
+C:\Users\cabre\AppData\Local\Temporary Projects\TablaTiempos\obj\x86\Debug\TablaTiempos.Form1.resources
+C:\Users\cabre\AppData\Local\Temporary Projects\TablaTiempos\obj\x86\Debug\TablaTiempos.Properties.Resources.resources
+C:\Users\cabre\AppData\Local\Temporary Projects\TablaTiempos\obj\x86\Debug\TablaTiempos.csproj.GenerateResource.Cache
+C:\Users\cabre\AppData\Local\Temporary Projects\TablaTiempos\obj\x86\Debug\TablaTiempos.exe
+C:\Users\cabre\AppData\Local\Temporary Projects\TablaTiempos\obj\x86\Debug\TablaTiempos.pdb
+C:\Users\cabre\Documents\GitHub\repositorio-abraham\TablaTiempos\TablaTiempos\obj\x86\Debug\TablaTiempos.exe
+C:\Users\cabre\Documents\GitHub\repositorio-abraham\TablaTiempos\TablaTiempos\obj\x86\Debug\TablaTiempos.pdb
+C:\Users\cabre\Documents\GitHub\repositorio-abraham\TablaTiempos\TablaTiempos\bin\Debug\TablaTiempos.exe
+C:\Users\cabre\Documents\GitHub\repositorio-abraham\TablaTiempos\TablaTiempos\bin\Debug\TablaTiempos.pdb
+C:\Users\cabre\Documents\GitHub\repositorio-abraham\TablaTiempos\TablaTiempos\obj\x86\Debug\TablaTiempos.control.resources
+C:\Users\cabre\Documents\GitHub\repositorio-abraham\TablaTiempos\TablaTiempos\obj\x86\Debug\TablaTiempos.Form1.resources
+C:\Users\cabre\Documents\GitHub\repositorio-abraham\TablaTiempos\TablaTiempos\obj\x86\Debug\TablaTiempos.Properties.Resources.resources
+C:\Users\cabre\Documents\GitHub\repositorio-abraham\TablaTiempos\TablaTiempos\obj\x86\Debug\TablaTiempos.csproj.GenerateResource.Cache
+C:\Users\cabre\Documents\GitHub\repositorio-abraham\TablaTiempos\TablaTiempos\obj\x86\Debug\TablaTiempos.csprojResolveAssemblyReference.cache
+C:\Users\cabre\Documents\GitHub\repositorio-abraham\TablaTiempos\TablaTiempos\obj\x86\Debug\TablaTiempos.control1.resources
+C:\Users\cabre\Documents\GitHub\repositorio-abraham\TablaTiempos\TablaTiempos\obj\x86\Debug\TablaTiempos.Form2.resources
+C:\Users\cabre\Documents\GitHub\repositorio-abraham\TablaTiempos\TablaTiempos\obj\x86\Debug\TablaTiempos.Recomendaciones.resources
